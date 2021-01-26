@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./lecturenote.xsl"?>
+
+<notes>
+    <subject>Node.js
+        <note>
+            <date>25-01-2021</date> 
+            <teacher>Niels</teacher>
+            <context>Introduktion</context>
+            <text>Noter fra timen</text>
+        </note>
+
+        <note>
+            <date>28-01-2021</date> 
+            <teacher>Niels</teacher>
+            <context>Request/Response</context>
+            <text>Noter fra timen</text>
+        </note>
+    </subject> 
+
+    <subject>Dataintegration
+        <note>
+            <date>02-02-2021</date> 
+            <teacher>Niels</teacher>
+            <context>Introduktion</context>
+            <text>Noter fra timen</text>
+        </note>
+    </subject> 
+</notes>
+
