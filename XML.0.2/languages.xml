@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<languages>
+    <language>
+        <contrycode>AUS</contrycode>
+        <name>Arabic</name>
+        <isofficial>F</isofficial>
+        <percentage>1.0</percentage>
+    </language>
+    <language>
+        <contrycode>DNK</contrycode>
+        <name>Danish</name>
+        <isofficial>T</isofficial>
+        <percentage>93.5</percentage>
+    </language>
+</languages>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<countries>
+    <contry>
+        <code>ASM</code>
+        <name>American Samoa</name>
+        <continent>Oceania</continent>
+        <surfacearea>199.00</surfacearea>
+        <indepyear>NULL</indepyear>
+        <population>68000</population>
+    </contry>
+
+    <contry>
+        <code>NCL</code>
+        <name>New Caledonia</name>
+        <continent>Oceania</continent>
+        <surfacearea>18575.00</surfacearea>
+        <indepyear>NULL</indepyear>
+        <population>214000</population>
+    </contry>
+
+    <contry>
+        <code>VUT</code>
+        <name>Vanuatu</name>
+        <continent>Oceania</continent>
+        <surfacearea>12189.00</surfacearea>
+        <indepyear>1980</indepyear>
+        <population>190000</population>
+    </contry>
+</countries>

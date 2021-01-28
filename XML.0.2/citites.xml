@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cities>
+    <city>
+        <id>130</id>
+        <name>Sydney</name>
+        <contrycode>AUS</contrycode>
+        <district>New South Wales</district>
+        <population>3276207</population>
+    </city>
+    <city>
+        <id>4083</id>
+        <name>Vejen</name>
+        <contrycode>DNK</contrycode>
+        <district>Syd</district>
+        <population>7777</population>
+    </city>
+</cities>

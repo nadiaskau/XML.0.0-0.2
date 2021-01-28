@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<continents>
+    <continent>North America</continent>
+    <continent>Asia</continent>
+    <continent>Africa</continent>
+    <continent>Europe</continent>
+    <continent>South America</continent>
+    <continent>Oceania</continent>
+    <continent>Antarctica</continent>
+</continents>
